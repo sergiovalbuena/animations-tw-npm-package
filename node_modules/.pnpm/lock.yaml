@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 devDependencies:
+  postcss:
+    specifier: ^8.4.35
+    version: 8.4.35
   standard:
     specifier: 17.1.0
     version: 17.1.0
